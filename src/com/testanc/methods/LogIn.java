@@ -10,6 +10,10 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+
+/*
+ * test comment
+ */
 public class LogIn {
 	
 	public static void main(String[] args) throws InterruptedException {
